@@ -1,10 +1,12 @@
 require 'test/unit'
 require 'selenium-webdriver'
+require 'rspec'
 require_relative 'our_module'
 require_relative 'no_bug_issue_error'
 
 
 class TestPositive < Test::Unit::TestCase
+  include RSpec::Matchers
   include OurModule
 
   def setup
@@ -12,59 +14,41 @@ class TestPositive < Test::Unit::TestCase
     @wait = Selenium::WebDriver::Wait.new(:timeout => 10)
   end
 
-  def test_positive
+  def test_register_user
     register_user
 
     flash_notice = @driver.find_element(:id, 'flash_notice')
-    assert(flash_notice.displayed?)
+    expect(flash_notice).to be_displayed
   end
 
   def test_log_out
     register_user
-
-    @wait.until {@driver.find_element(:class,'logout').displayed?}
-    @driver.find_element(:class, 'logout').click
-
-    @wait.until {@driver.find_element(:class,'login').displayed?}
+    logout
 
     login_button = @driver.find_element(:class, 'login')
 
-    assert(login_button.displayed?)
+    expect(login_button).to be_displayed
   end
 
   def test_log_in
     register_user
-    @wait.until {@driver.find_element(:class,'logout').displayed?}
-    @driver.find_element(:class, 'logout').click
-
-    @wait.until {@driver.find_element(:class,'login').displayed?}
-
-    @driver.find_element(:class,'login').click
-
-    @wait.until {@driver.find_element(:id,'username').displayed?}
-
+    logout
     login_user
 
-    @driver.find_element(:name,'login').click
-
-    @wait.until {@driver.find_element(:class,'my-account').displayed?}
-    account_button = @driver.find_element(:class,'my-account')
-
-    assert(account_button.displayed?)
+    @wait.until {@driver.find_element(:id, 'loggedas').displayed?}
+    expect(@driver.find_element(:id, 'loggedas').text).not_to be_nil
   end
 
   def test_lost_password
     register_user
-    @wait.until {@driver.find_element(:class,'logout').displayed?}
-    @driver.find_element(:class, 'logout').click
+    logout
 
-    @wait.until {@driver.find_element(:class,'login').displayed?}
     @driver.find_element(:class,'login').click
 
     lost_password
 
     flash_notice = @driver.find_element(:id, 'flash_notice')
-    assert(flash_notice.displayed?)
+    expect(flash_notice).to be_displayed
   end
 
   def test_create_project
@@ -72,29 +56,23 @@ class TestPositive < Test::Unit::TestCase
     add_new_project
 
     flash_notice = @driver.find_element(:id, 'flash_notice')
-    assert(flash_notice.displayed?)
+    expect(flash_notice).to be_displayed
   end
 
   def test_add_another_user
     register_user
-    @wait.until {@driver.find_element(:class,'logout').displayed?}
-    @driver.find_element(:class, 'logout').click
-    @wait.until {@driver.find_element(:class,'login').displayed?}
-
+    logout
     register_user1
     add_new_project
     add_another_user
 
     flash_notice = @driver.find_element(:id, 'flash_notice')
-    assert(flash_notice.displayed?)
+    expect(flash_notice).to be_displayed
   end
 
   def test_edit_roles
     register_user
-    @wait.until {@driver.find_element(:class,'logout').displayed?}
-    @driver.find_element(:class, 'logout').click
-    @wait.until {@driver.find_element(:class,'login').displayed?}
-
+    logout
     register_user1
     add_new_project
     @driver.find_element(:id, 'tab-members').click
@@ -106,7 +84,7 @@ class TestPositive < Test::Unit::TestCase
 
     expected_text = 'Developer'
     actual_text = type_issue[index].text
-    assert_equal(expected_text, actual_text)
+    expect(actual_text).to eql expected_text
   end
 
   def test_create_project_version
@@ -115,7 +93,7 @@ class TestPositive < Test::Unit::TestCase
     create_project_version
 
     flash_notice = @driver.find_element(:id, 'flash_notice')
-    assert(flash_notice.displayed?)
+    expect(flash_notice).to be_displayed
   end
 
   def test_feature_types_issue
@@ -145,7 +123,7 @@ class TestPositive < Test::Unit::TestCase
 
     expected_text = 'Feature'
     actual_text = type_issue[index].text
-    assert_equal(expected_text, actual_text)
+    expect(actual_text).to eql expected_text
   end
 
   def test_support_types_issue
@@ -176,7 +154,7 @@ class TestPositive < Test::Unit::TestCase
 
     expected_text = 'Support'
     actual_text = type_issue[index].text
-    assert_equal(expected_text, actual_text)
+    expect(actual_text).to eql expected_text
   end
 
   def test_bug_types_issue
@@ -203,7 +181,7 @@ class TestPositive < Test::Unit::TestCase
 
     expected_text = 'Bug'
     actual_text = type_issue[index].text
-    assert_equal(expected_text, actual_text)
+    expect(actual_text).to eql expected_text
   end
 
   def test_create_or_not_bug_issue_whit_watcher
@@ -219,11 +197,8 @@ class TestPositive < Test::Unit::TestCase
     puts "Your random action: not create a new bug issue"
     end
 
-    @driver.find_element(:class,'my-page').click
-    @wait.until {@driver.find_element(:class,'mypage-box').displayed?}
+    open_bug_issue
 
-    classes_els = @driver.find_elements(:css,'.subject > a')
-    my_bug_issue = classes_els.find {|el| el.text.include? @bug_issue}
     if my_bug_issue
       my_bug_issue.click
     else
@@ -244,8 +219,12 @@ class TestPositive < Test::Unit::TestCase
 
     issue = @driver.find_elements(:class,'subject')
     classes_watch = @driver.find_elements(:class,'watchers')
-    assert issue.find {|el| el.text.include? @bug_issue} && classes_watch.find {|el| el.text.include? 'Olena Kanevska'}
-  end
+    
+    aggregate_failures do
+     expect(issue.map{|el| el.text}).to include (@bug_issue)
+     expect(classes_watch.map{|el| el.text}).to include ('Olena Kanevska')
+    end
+ end
   def test_rescue_if_not_create_bug_issue
     register_user
     add_new_project
@@ -258,23 +237,24 @@ class TestPositive < Test::Unit::TestCase
       puts "Your random action: not create a new bug issue"
     end
     open_bug_issue
-    raise NoBugIssueError, "You not create a bug issue. You can not click to bug issue." unless @my_bug_issue
+    begin
+     raise NoBugIssueError, "You not create a bug issue. You can not click to bug issue." unless @my_bug_issue
     
-    @my_bug_issue.click
-  rescue NoBugIssueError => e
-    puts e.inspect
+     @my_bug_issue.click
+     rescue NoBugIssueError => e
+     puts e.inspect
 
-    drop_down_project = @driver.find_element(:id,'project_quick_jump_box')
-    option = Selenium::WebDriver::Support::Select.new(drop_down_project)
-    option.select_by(:text, @project_name)
-    puts "Now your create a new bug issue"
-    add_new_issue
-    open_bug_issue
-    @my_bug_issue.click   
-
+     drop_down_project = @driver.find_element(:id,'project_quick_jump_box')
+     option = Selenium::WebDriver::Support::Select.new(drop_down_project)
+     option.select_by(:text, @project_name)
+     puts "Now your create a new bug issue"
+     add_new_issue
+     open_bug_issue
+     @my_bug_issue.click   
+    end
     issue = @driver.find_elements(:class,'subject')
 
-    assert issue.find{|el| el.text.include? @bug_issue}
+    expect(issue.map(&:text)).to include @bug_issue
   end
 
   def teardown
