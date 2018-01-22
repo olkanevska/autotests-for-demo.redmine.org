@@ -7,6 +7,6 @@ Feature: Edit feature type issue in my project
   Scenario: Positive Edit feature type issue in my project
     Given I am on Registration page
     And I submit registration form with valid data
-    And I perform the actions necessary to create project
+    And I create project
     When I edit feature type issue to: Feature
     Then I edited feature type issue in my project for a: Feature
