@@ -44,7 +44,7 @@ When(/^I perform the actions necessary to recover the password$/) do
   @driver.find_element(:name, 'commit').click
 end
 
-When(/^I perform the actions necessary to create project$/) do
+When(/^I create project$/) do
   create_project
 end
 
@@ -53,7 +53,7 @@ When(/^I perform the actions necessary to create project version$/) do
 end
 
 
-And(/^I add to my project another use$/) do
+And(/^I add to my project another user$/) do
   add_user_in_project
 end
 
@@ -92,7 +92,7 @@ Then(/^I'm logged out$/) do
   expect(login_button).to be_displayed
 end
 
-Then(/^I see a message that my actions led to the expected result$/) do
+Then(/^I see expected message$/) do
   @wait.until {@driver.find_element(:id,'flash_notice').displayed?}
   flash_notice = @driver.find_element(:id, 'flash_notice')
   expect(flash_notice).to be_displayed
