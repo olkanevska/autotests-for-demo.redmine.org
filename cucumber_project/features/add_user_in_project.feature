@@ -7,6 +7,6 @@ Feature: Add user in project
   Scenario: Positive Add user in project
     Given I am on Registration page
     And I submit registration form with valid data
-    And I perform the actions necessary to create project
-    When I add to my project another use
+    And I create project
+    When I add to my project another user
     Then I see a message that my actions led to the expected result
