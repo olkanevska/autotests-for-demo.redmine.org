@@ -7,6 +7,6 @@ Feature: Edit my role in my project
   Scenario: Positive Edit my role in my project
     Given I am on Registration page
     And I submit registration form with valid data
-    And I perform the actions necessary to create project
+    And I create project
     When I edit my role from: manager to: developer
     Then I edited my role in my project for a: Developer
