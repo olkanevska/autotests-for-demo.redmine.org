@@ -7,6 +7,6 @@ Feature: Create in my project new version
   Scenario: Positive Create project version
     Given I am on Registration page
     And I submit registration form with valid data
-    And I perform the actions necessary to create project
+    And I create project
     When I perform the actions necessary to create project version
-    Then I see a message that my actions led to the expected result
+    Then I see expected message
