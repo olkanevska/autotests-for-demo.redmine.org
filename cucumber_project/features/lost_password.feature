@@ -10,4 +10,4 @@ Feature: Lost password
     And I perform the actions necessary to log out
     And I am on Login page
     When I perform the actions necessary to recover the password
-    Then I see a message that my actions led to the expected result
+    Then I see expected message
