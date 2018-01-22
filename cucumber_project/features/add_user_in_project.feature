@@ -9,4 +9,4 @@ Feature: Add user in project
     And I submit registration form with valid data
     And I create project
     When I add to my project another user
-    Then I see a message that my actions led to the expected result
+    Then I see expected message
