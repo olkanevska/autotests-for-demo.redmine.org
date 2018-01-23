@@ -1,2 +1,0 @@
-class NoBugIssueError < StandardError
-end
