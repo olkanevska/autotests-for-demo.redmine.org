@@ -7,7 +7,7 @@ Feature: Lost password
   Scenario: Positive Lost password
     Given I am on Registration page
     And I submit registration form with valid data
-    And I perform the actions necessary to log out
+    And I'm log out
     And I am on Login page
-    When I perform the actions necessary to recover the password
+    When I restore the password
     Then I see expected message

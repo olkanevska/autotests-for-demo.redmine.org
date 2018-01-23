@@ -9,7 +9,7 @@ Given(/^I am on Registration page$/) do
   @driver.navigate.to 'http://demo.redmine.org/account/register'
 end
 
-And(/^I perform the actions necessary to random create or not bug issue$/) do
+And(/^I do random actions create or not bug issue$/) do
   x = rand(1..2)
 
   if x == 1
@@ -29,12 +29,12 @@ When(/^I submit registration form with valid data$/) do
   register_user
 end
 
-When(/^I perform the actions necessary to log out$/) do
+When(/^I'm log out$/) do
   @wait.until {@driver.find_element(:class,'logout').displayed?}
   @driver.find_element(:class, 'logout').click
 end
 
-When(/^I perform the actions necessary to recover the password$/) do
+When(/^I restore the password$/) do
   @wait.until {@driver.find_element(:css, '#login-form td a').displayed?}
   @driver.find_element(:css, '#login-form td a').click
 
@@ -48,7 +48,7 @@ When(/^I create project$/) do
   create_project
 end
 
-When(/^I perform the actions necessary to create project version$/) do
+When(/^I create project version$/) do
   create_project_version
 end
 
