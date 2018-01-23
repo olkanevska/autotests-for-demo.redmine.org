@@ -7,7 +7,7 @@ Feature: Create bug issue and add watcher.
     Given I am on Registration page
     And I submit registration form with valid data
     And I create project
-    And I perform the actions necessary to random create or not bug issue
+    And I do random actions create or not bug issue
     When I open bug issue or create new if I did not create it before
     And I add watcher to my new bug issue
     Then I created new bug issue
