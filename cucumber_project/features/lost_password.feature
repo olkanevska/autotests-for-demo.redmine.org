@@ -9,5 +9,5 @@ Feature: Lost password
     And I submit registration form with valid data
     And I perform the actions necessary to log out
     And I am on Login page
-    When I perform the actions necessary to recover the password
+    When I restore the password
     Then I see expected message
