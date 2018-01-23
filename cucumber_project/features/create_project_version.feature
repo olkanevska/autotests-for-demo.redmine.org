@@ -8,5 +8,5 @@ Feature: Create in my project new version
     Given I am on Registration page
     And I submit registration form with valid data
     And I create project
-    When I perform the actions necessary to create project version
+    When I create project version
     Then I see expected message
