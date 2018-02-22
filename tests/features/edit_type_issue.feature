@@ -8,5 +8,6 @@ Feature: Edit feature type issue in my project
     Given I am on Registration page
     And I submit registration form with valid data
     And I create project
-    When I edit feature type issue to: Feature
+    When I create bug issue
+    And I edit feature type issue to: Feature
     Then I edited feature type issue in my project for a: Feature
