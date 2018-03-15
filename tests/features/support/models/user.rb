@@ -1,4 +1,5 @@
 class User
+  include PageObject
   attr_reader :first_name, :last_name, :email, :login, :password, :full_name
 
   def initialize
