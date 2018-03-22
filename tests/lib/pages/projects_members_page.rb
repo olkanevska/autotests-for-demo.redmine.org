@@ -4,7 +4,7 @@ class ProjectsMembersPage<BasePage
  link(:edit_roles, class:'icon-edit')
  checkbox(:manager, css:'[name="membership[role_ids][]"][value="3"]')
  checkbox(:developer, css:'[name="membership[role_ids][]"][value="4"]')
- button(:submit,css: 'input.small[name=commit]')
+ button(:submit,css:'.small[name="commit"]')
  span(:actual_member_role,css:'.roles span')
  paragraph(:pagination, class: 'pangination')
  checkbox(:member, css: '#principals input')

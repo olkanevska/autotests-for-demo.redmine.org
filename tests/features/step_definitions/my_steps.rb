@@ -11,8 +11,9 @@ And(/^I do random actions create or not bug issue$/) do
   x = rand(1..2)
 
   if x == 1
-    on(ProjectsSettingsPage).open_projects_issues_new_page
+    on(ProjectsSettingsPage).new
     puts "Your random action: create a new bug issue"
+    #create_issue имеет аргумент type_issue можно выбрать "Feature", "Support" если не выбирать то по умолчанию будет "Bug"
     @bug_issue = on(ProjectsIssuesNewPage).create_issue
   else
     puts "Your random action: not create a new bug issue"
@@ -20,7 +21,8 @@ And(/^I do random actions create or not bug issue$/) do
 end
 
 When(/^I create bug issue$/) do
-  on(ProjectsSettingsPage).open_projects_issues_new_page
+  on(ProjectsSettingsPage).new
+  #create_issue имеет аргумент type_issue можно выбрать "Feature", "Support" если не выбирать то по умолчанию будет "Bug"
   @bug_issue = on(ProjectsIssuesNewPage).create_issue
 end
 
@@ -31,11 +33,11 @@ end
 When(/^I submit registration form with valid data$/) do
   @user = User.new
   on(RegistrationPage).fill_in_registration_form(@user)
-  on(MyAccountPage)
+  on(MyAccountPage).logout?
 end
 
 When(/^I'm log out$/) do
-  @current_page.logout_element.when_present.click
+  @current_page.logout
 end
 
 When(/^I restore the password$/) do
@@ -46,24 +48,24 @@ end
 
 When(/^I create project$/) do
   @current_page.open_projects_page
-  on(ProjectsPage).open_projects_new_page?
-  @current_page.open_projects_new_page
+  on(ProjectsPage).new?
+  @current_page.new
   @project_name = on(ProjectsNewPage).create_project
 end
 
 When(/^I create project version$/) do
-  on(ProjectsSettingsPage).open_projects_versions_page
-  on(ProjectsVersionsPage).open_projects_versions_new_page
+  on(ProjectsSettingsPage).versions
+  on(ProjectsVersionsPage).new
   on(ProjectsVersionsNewPage).create_new_version
 end
 
 And(/^I add to my project another user$/) do
-  on(ProjectsSettingsPage).open_projects_members_page
+  on(ProjectsSettingsPage).members
   on(ProjectsMembersPage).add_new_member
 end
 
 When(/^I edit my role to: (.*)$/) do |role_new|
-  on(ProjectsSettingsPage).open_projects_members_page_element.when_present.click
+  on(ProjectsSettingsPage).members_element.when_present.click
   on(ProjectsMembersPage).edit_roles
   @current_page.manager?
   @current_page.edit_role(role_new)
@@ -80,7 +82,8 @@ When(/^I open bug issue or create new if I did not create it before$/) do
     @current_page.find_my_issue(@bug_issue).click
   else
     @current_page.project=@project_name
-    on(ProjectsSettingsPage).open_projects_issues_new_page
+    on(ProjectsSettingsPage).new
+    #create_issue имеет аргумент type_issue можно выбрать "Feature", "Support" если не выбирать то по умолчанию будет "Bug"
     @bug_issue = on(ProjectsIssuesNewPage).create_issue
   end
 end
@@ -98,7 +101,8 @@ Then(/^I'm logged out$/) do
 end
 
 Then(/^I see expected message$/) do
-  expect(@current_page.expected_message?)
+  @current_page.expected_message?
+  expect(@current_page.expected_message_element).to be_visible
 end
 
 Then(/^I edited my role in my project for a: (.*)$/) do |role|
@@ -127,8 +131,9 @@ And(/^I open bug issue or see error message if I did not create it before\. I cr
     rescue NoBugIssueError => e
     puts e.inspect
     @current_page.project=@project_name
-    on(ProjectsSettingsPage).open_projects_issues_new_page
+    on(ProjectsSettingsPage).new
     projects_issues_new_page = ProjectsIssuesNewPage.new(@browser)
+    #create_issue имеет аргумент type_issue можно выбрать "Feature", "Support" если не выбирать то по умолчанию будет "Bug"
     @bug_issue = projects_issues_new_page.create_issue
     puts "Now your create a new bug issue"
   end

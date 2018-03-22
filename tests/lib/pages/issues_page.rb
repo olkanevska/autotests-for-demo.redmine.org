@@ -9,9 +9,9 @@ class IssuesPage<BasePage
  button(:submit_add_watcher,css:'.buttons > input')
  unordered_list(:added_watcher, class: 'watchers')
  select_list(:issue_tracker, id:'issue_tracker_id')
- button(:submit_edit_type_issue,css:'#issue-form > input:nth-child(7)')
+ button(:submit_edit_type_issue,css:'#issue-form [name="commit"]')
  div(:history,id:'history')
- unordered_list(:actual_type_issue,css:'.details > li:nth-child(1) > i:nth-child(3)')
+ #unordered_list(:actual_type_issue,css:'.details > li:nth-child(1) > i:nth-child(3)')
 
   def open_icon_edit
     self.icon_edit_element.when_present

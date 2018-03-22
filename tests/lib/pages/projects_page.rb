@@ -1,5 +1,5 @@
 require_relative 'base_page'
 class ProjectsPage<BasePage
 
-link(:open_projects_new_page,class:'icon icon-add' )
+link(:new,class:'icon-add' )
 end
