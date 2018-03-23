@@ -11,7 +11,7 @@ And(/^I do random actions create or not bug issue$/) do
   x = rand(1..2)
 
   if x == 1
-    on(ProjectsSettingsPage).new
+    on(ProjectsSettingsPage).open_issue_new
     puts "Your random action: create a new bug issue"
     #create_issue имеет аргумент type_issue можно выбрать "Feature", "Support" если не выбирать то по умолчанию будет "Bug"
     @bug_issue = on(ProjectsIssuesNewPage).create_issue
@@ -21,7 +21,7 @@ And(/^I do random actions create or not bug issue$/) do
 end
 
 When(/^I create bug issue$/) do
-  on(ProjectsSettingsPage).new
+  on(ProjectsSettingsPage).open_issue_new
   #create_issue имеет аргумент type_issue можно выбрать "Feature", "Support" если не выбирать то по умолчанию будет "Bug"
   @bug_issue = on(ProjectsIssuesNewPage).create_issue
 end
@@ -48,14 +48,14 @@ end
 
 When(/^I create project$/) do
   @current_page.open_projects_page
-  on(ProjectsPage).new?
-  @current_page.new
+  on(ProjectsPage).open_new_project?
+  @current_page.open_new_project
   @project_name = on(ProjectsNewPage).create_project
 end
 
 When(/^I create project version$/) do
   on(ProjectsSettingsPage).versions
-  on(ProjectsVersionsPage).new
+  on(ProjectsVersionsPage).open_projects_version
   on(ProjectsVersionsNewPage).create_new_version
 end
 
@@ -82,7 +82,7 @@ When(/^I open bug issue or create new if I did not create it before$/) do
     @current_page.find_my_issue(@bug_issue).click
   else
     @current_page.project=@project_name
-    on(ProjectsSettingsPage).new
+    on(ProjectsSettingsPage).open_issue_new
     #create_issue имеет аргумент type_issue можно выбрать "Feature", "Support" если не выбирать то по умолчанию будет "Bug"
     @bug_issue = on(ProjectsIssuesNewPage).create_issue
   end
@@ -131,7 +131,7 @@ And(/^I open bug issue or see error message if I did not create it before\. I cr
     rescue NoBugIssueError => e
     puts e.inspect
     @current_page.project=@project_name
-    on(ProjectsSettingsPage).new
+    on(ProjectsSettingsPage).open_issue_new
     projects_issues_new_page = ProjectsIssuesNewPage.new(@browser)
     #create_issue имеет аргумент type_issue можно выбрать "Feature", "Support" если не выбирать то по умолчанию будет "Bug"
     @bug_issue = projects_issues_new_page.create_issue

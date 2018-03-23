@@ -16,7 +16,7 @@ class ProjectsMembersPage<BasePage
    self.uncheck_manager
    self.send("check_#{role_new}")
    self.submit
-   self.actual_member_role?
+   self.submit_element.when_not_present
  end
 
  def add_new_member
