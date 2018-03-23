@@ -3,7 +3,6 @@ require 'page-object'
 require 'require_all'
 require 'faker'
 require_relative 'models/user'
-
 require_all 'lib'
 
 World(PageObject::PageFactory)
