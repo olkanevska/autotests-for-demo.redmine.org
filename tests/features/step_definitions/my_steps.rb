@@ -1,6 +1,6 @@
 
 Given(/^I am on Login page$/) do
-@current_page.login
+visit(HomePage).login
 end
 
 Given(/^I am on Registration page$/) do
@@ -27,7 +27,7 @@ When(/^I create bug issue$/) do
 end
 
 When(/^I submit valid credentials$/) do
-  on(LoginPage).login(@user)
+  on(LoginPage).login
 end
 
 When(/^I submit registration form with valid data$/) do
@@ -37,17 +37,17 @@ When(/^I submit registration form with valid data$/) do
 end
 
 When(/^I'm log out$/) do
-  @current_page.logout
+  on(MyAccountPage).logout
 end
 
 When(/^I restore the password$/) do
   on(LoginPage).lost_password_element.when_present
   @current_page.lost_password
-  on(LostPasswordPage).password_recovery(@user)
+  on(LostPasswordPage).password_recovery
 end
 
 When(/^I create project$/) do
-  @current_page.open_projects_page
+  on(MyAccountPage).open_projects_page
   on(ProjectsPage).open_new_project?
   @current_page.open_new_project
   @project_name = on(ProjectsNewPage).create_project
@@ -93,6 +93,10 @@ And(/^I add watcher to my new bug issue$/) do
 end
 
 Then(/^I am logged in$/) do
+  expect(on(MyAccountPage).info_logged_user_element.text).to eql @current_page.user_login
+end
+
+Then(/^I am logged in after registration$/) do
   expect(on(MyAccountPage).info_logged_user_element.text).to eql @user.login
 end
 
@@ -118,7 +122,7 @@ Then(/^I created new bug issue$/) do
 end
 
 And(/^I added watcher$/) do
-  expect(on(IssuesPage).added_watcher).to include(@user.full_name)
+  expect(on(IssuesPage).added_watcher).to include(@current_page.full_name)
 end
 
 

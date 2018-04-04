@@ -104,12 +104,12 @@
     <SUITE FILE_PATH="coverage/Eighth_homework@create_project_feature.coverage" NAME="create_project.feature Coverage Results" MODIFIED="1518616369404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/Seventh_homework@log_in_feature.coverage" NAME="log_in.feature Coverage Results" MODIFIED="1516196157981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/8_Page_Object_Pattern@lost_password_feature.coverage" NAME="lost_password.feature Coverage Results" MODIFIED="1519303067074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
-    <SUITE FILE_PATH="coverage/tests@edit_type_issue_feature.coverage" NAME="edit_type_issue.feature Coverage Results" MODIFIED="1521796943388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
+    <SUITE FILE_PATH="coverage/tests@edit_type_issue_feature.coverage" NAME="edit_type_issue.feature Coverage Results" MODIFIED="1522670198557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/8_Page_Object_Pattern@projects_members_page.coverage" NAME="projects_members_page Coverage Results" MODIFIED="1519223866869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/support/lib/pages" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/task_7_cucumber@registration_feature.coverage" NAME="registration.feature Coverage Results" MODIFIED="1515069912416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/8_Page_Object_Pattern@projects_versions_page.coverage" NAME="projects_versions_page Coverage Results" MODIFIED="1519280932212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/support/lib/pages" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/9_Page_Object_Gem@create_issue_feature.coverage" NAME="create_issue.feature Coverage Results" MODIFIED="1521114545792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
-    <SUITE FILE_PATH="coverage/tests@create_project_feature.coverage" NAME="create_project.feature Coverage Results" MODIFIED="1521796980184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
+    <SUITE FILE_PATH="coverage/tests@create_project_feature.coverage" NAME="create_project.feature Coverage Results" MODIFIED="1522749799355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/Nine_homework___@registration_feature.coverage" NAME="registration.feature Coverage Results" MODIFIED="1519124120130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/task_7_cucumber@Scenario__Positive_Create_project__1_.coverage" NAME="Scenario: Positive Create project (1) Coverage Results" MODIFIED="1515063444940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/Seventh_homework@All_tests_in_features__task_7_cucumber.coverage" NAME="All tests in features: task 7 cucumber Coverage Results" MODIFIED="1516195997996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
@@ -129,16 +129,16 @@
     <SUITE FILE_PATH="coverage/Seventh_homework@registration_feature.coverage" NAME="registration.feature Coverage Results" MODIFIED="1516196502733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/task_7_cucumber@lost_password_feature.coverage" NAME="lost_password.feature Coverage Results" MODIFIED="1515067777813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/8_Page_Object_Pattern@edit_type_issue_feature.coverage" NAME="edit_type_issue.feature Coverage Results" MODIFIED="1519303163055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
-    <SUITE FILE_PATH="coverage/tests@registration_feature.coverage" NAME="registration.feature Coverage Results" MODIFIED="1521794292421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
-    <SUITE FILE_PATH="coverage/tests@log_in_feature.coverage" NAME="log_in.feature Coverage Results" MODIFIED="1521795432294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
+    <SUITE FILE_PATH="coverage/tests@registration_feature.coverage" NAME="registration.feature Coverage Results" MODIFIED="1522753762652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
+    <SUITE FILE_PATH="coverage/tests@log_in_feature.coverage" NAME="log_in.feature Coverage Results" MODIFIED="1522670069303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/Seventh_homework@Scenario__Positive_Create_bug_issue_and_add_watcher__4_.coverage" NAME="Scenario: Positive Create bug issue and add watcher (4) Coverage Results" MODIFIED="1516705189973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/task_7_cucumber@Scenario__Negative_Login.coverage" NAME="Scenario: Negative Login Coverage Results" MODIFIED="1513679772766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
-    <SUITE FILE_PATH="coverage/tests@create_project_version_feature.coverage" NAME="create_project_version.feature Coverage Results" MODIFIED="1521796961548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
-    <SUITE FILE_PATH="coverage/tests@edit_role_in_project_feature.coverage" NAME="edit_role_in_project.feature Coverage Results" MODIFIED="1521796883006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
-    <SUITE FILE_PATH="coverage/tests@add_user_in_project_feature.coverage" NAME="add_user_in_project.feature Coverage Results" MODIFIED="1521797015556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
+    <SUITE FILE_PATH="coverage/tests@create_project_version_feature.coverage" NAME="create_project_version.feature Coverage Results" MODIFIED="1522749144018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
+    <SUITE FILE_PATH="coverage/tests@edit_role_in_project_feature.coverage" NAME="edit_role_in_project.feature Coverage Results" MODIFIED="1522670827429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
+    <SUITE FILE_PATH="coverage/tests@add_user_in_project_feature.coverage" NAME="add_user_in_project.feature Coverage Results" MODIFIED="1522752949817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/task_7_cucumber@create_project_feature.coverage" NAME="create_project.feature Coverage Results" MODIFIED="1515067733554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/8_Page_Object_Pattern@create_project_version_feature.coverage" NAME="create_project_version.feature Coverage Results" MODIFIED="1519303203070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
-    <SUITE FILE_PATH="coverage/tests@create_issue_feature.coverage" NAME="create_issue.feature Coverage Results" MODIFIED="1521796991163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
+    <SUITE FILE_PATH="coverage/tests@create_issue_feature.coverage" NAME="create_issue.feature Coverage Results" MODIFIED="1522752858505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/Eighth_homework@log_in_feature.coverage" NAME="log_in.feature Coverage Results" MODIFIED="1518611298834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/9_Page_Object_Gem@log_in_feature.coverage" NAME="log_in.feature Coverage Results" MODIFIED="1521114930601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/Nine_homework___@registration_page.coverage" NAME="registration_page Coverage Results" MODIFIED="1519122721253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/pages" MODULE_NAME="task 7 cucumber" />
@@ -164,7 +164,7 @@
     <SUITE FILE_PATH="coverage/Eighth_homework@create_issue_feature.coverage" NAME="create_issue.feature Coverage Results" MODIFIED="1518692701380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/Eighth_homework@log_out_feature.coverage" NAME="log_out.feature Coverage Results" MODIFIED="1518611228028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/Eighth_homework@create_project_version_feature.coverage" NAME="create_project_version.feature Coverage Results" MODIFIED="1518616343400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
-    <SUITE FILE_PATH="coverage/tests@log_out_feature.coverage" NAME="log_out.feature Coverage Results" MODIFIED="1521795187583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
+    <SUITE FILE_PATH="coverage/tests@log_out_feature.coverage" NAME="log_out.feature Coverage Results" MODIFIED="1522669350033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/Eighth_homework@random_add_issue_whith_add_watcher_feature.coverage" NAME="random_add_issue_whith_add_watcher.feature Coverage Results" MODIFIED="1518690951787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/9_Page_Object_Gem@random_add_issue_whith_add_watcher_feature.coverage" NAME="random_add_issue_whith_add_watcher.feature Coverage Results" MODIFIED="1521114823946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/Eighth_homework@helper_methods.coverage" NAME="helper_methods Coverage Results" MODIFIED="1517386849603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/support" MODULE_NAME="task 7 cucumber" />
@@ -175,9 +175,9 @@
     <SUITE FILE_PATH="coverage/Eighth_homework@edit_type_issue_feature.coverage" NAME="edit_type_issue.feature Coverage Results" MODIFIED="1518611309130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/Eighth_homework@add_user_in_project_feature.coverage" NAME="add_user_in_project.feature Coverage Results" MODIFIED="1518616414068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/Seventh_homework@Scenario__Positive_Create_bug_issue_and_add_watcher__2_.coverage" NAME="Scenario: Positive Create bug issue and add watcher (2) Coverage Results" MODIFIED="1516705189660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
-    <SUITE FILE_PATH="coverage/tests@lost_password_feature.coverage" NAME="lost_password.feature Coverage Results" MODIFIED="1521795162724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
+    <SUITE FILE_PATH="coverage/tests@lost_password_feature.coverage" NAME="lost_password.feature Coverage Results" MODIFIED="1522668909189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/9_Page_Object_Gem@registration_feature.coverage" NAME="registration.feature Coverage Results" MODIFIED="1521114798598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
-    <SUITE FILE_PATH="coverage/tests@random_add_issue_whith_add_watcher_feature.coverage" NAME="random_add_issue_whith_add_watcher.feature Coverage Results" MODIFIED="1521794417006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
+    <SUITE FILE_PATH="coverage/tests@random_add_issue_whith_add_watcher_feature.coverage" NAME="random_add_issue_whith_add_watcher.feature Coverage Results" MODIFIED="1522660738072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/task_7_cucumber@log_in_feature.coverage" NAME="log_in.feature Coverage Results" MODIFIED="1515073831669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/8_Page_Object_Pattern@add_user_in_project_feature.coverage" NAME="add_user_in_project.feature Coverage Results" MODIFIED="1519303324985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="task 7 cucumber" />
     <SUITE FILE_PATH="coverage/9_Page_Object_Gem@projects_members_page.coverage" NAME="projects_members_page Coverage Results" MODIFIED="1521112731621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/pages" MODULE_NAME="task 7 cucumber" />
@@ -187,28 +187,48 @@
       <file leaf-file-name="my_steps.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/my_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="70" column="35" lean-forward="false" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
+            <state relative-caret-position="96">
+              <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit_role_in_project.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/edit_role_in_project.feature">
+      <file leaf-file-name="random_add_issue_with_add_watcher.feature" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/features/random_add_issue_with_add_watcher.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projects_members_page.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/pages/projects_members_page.rb">
+      <file leaf-file-name="log_in.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/log_in.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="75">
+              <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lost_password.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/lost_password.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log_out.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/log_out.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -217,68 +237,48 @@
       <file leaf-file-name="Rakefile.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Rakefile.rb">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="86" column="39" lean-forward="false" selection-start-line="86" selection-start-column="39" selection-end-line="86" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmp/user.json">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/Gemfile">
+      <file leaf-file-name="registration.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/registration.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login_page.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/pages/login_page.rb">
+      <file leaf-file-name="user.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/support/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="150">
+              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projects_settings_page.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/pages/projects_settings_page.rb">
+      <file leaf-file-name="add_user_in_project.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/add_user_in_project.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="projects_page.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/pages/projects_page.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="env.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/features/support/env.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hooks.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/support/hooks.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -288,7 +288,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>open_projects_members_page</find>
       <find>actual_member_role</find>
       <find>I create project</find>
       <find>.contextual p a.icon-add</find>
@@ -297,7 +296,6 @@
       <find>#tab-content-versions p a.icon-add</find>
       <find>I do random actions create or not bug issue</find>
       <find>I open bug issue or see error message if I did not create it before. I create new issue.</find>
-      <find>open_my_page</find>
       <find>select_my_project(@project_name)</find>
       <find>project_quick_jump_box</find>
       <find>I created new bug issue</find>
@@ -318,6 +316,8 @@
       <find>ProjectsPage</find>
       <find>.new</find>
       <find>I edited my role in my project for a</find>
+      <find>@bug_issue</find>
+      <find>open_my_page</find>
     </findStrings>
     <replaceStrings>
       <replace>subject</replace>
@@ -330,16 +330,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/features/support/helper_methods.rb" />
-        <option value="$PROJECT_DIR$/features/lib/pages/registration_page.rb" />
-        <option value="$PROJECT_DIR$/features/lib/pages/home_page.rb" />
-        <option value="$PROJECT_DIR$/features/lib/pages/issues_page.rb" />
-        <option value="$PROJECT_DIR$/features/lib/pages/login_page.rb" />
-        <option value="$PROJECT_DIR$/features/lib/pages/lost_password_page.rb" />
-        <option value="$PROJECT_DIR$/features/lib/pages/my_account_page.rb" />
-        <option value="$PROJECT_DIR$/features/lib/pages/my_page.rb" />
-        <option value="$PROJECT_DIR$/features/lib/pages/projects_issues_new_page.rb" />
-        <option value="$PROJECT_DIR$/features/lib/pages/projects_members_page.rb" />
         <option value="$PROJECT_DIR$/features/lib/pages/projects_new_page.rb" />
         <option value="$PROJECT_DIR$/features/lib/pages/projects_page.rb" />
         <option value="$PROJECT_DIR$/features/lib/pages/projects_settings_page.rb" />
@@ -358,29 +348,39 @@
         <option value="$PROJECT_DIR$/features/support/lib/pages/issues_page.rb" />
         <option value="$PROJECT_DIR$/features/support/lib/pages/my_page.rb" />
         <option value="$PROJECT_DIR$/features/support/lib/pages/base_page.rb" />
-        <option value="$PROJECT_DIR$/features/support/models/user.rb" />
-        <option value="$PROJECT_DIR$/lib/pages/lost_password_page.rb" />
-        <option value="$PROJECT_DIR$/features/edit_role_in_project.feature" />
-        <option value="$PROJECT_DIR$/features/create_issue.feature" />
-        <option value="$PROJECT_DIR$/lib/pages/base_page.rb" />
         <option value="$PROJECT_DIR$/lib/pages/registration_page.rb" />
         <option value="$PROJECT_DIR$/lib/pages/projects_versions_new_page.rb" />
         <option value="$PROJECT_DIR$/lib/pages/projects_new_page.rb" />
         <option value="$PROJECT_DIR$/lib/pages/my_page.rb" />
         <option value="$PROJECT_DIR$/lib/pages/my_account_page.rb" />
-        <option value="$PROJECT_DIR$/lib/pages/login_page.rb" />
-        <option value="$PROJECT_DIR$/lib/pages/home_page.rb" />
         <option value="$PROJECT_DIR$/lib/pages/projects_issues_new_page.rb" />
         <option value="$PROJECT_DIR$/lib/pages/issues_page.rb" />
         <option value="$PROJECT_DIR$/lib/pages/projects_versions_page.rb" />
         <option value="$PROJECT_DIR$/lib/pages/projects_page.rb" />
         <option value="$PROJECT_DIR$/lib/pages/projects_settings_page.rb" />
-        <option value="$PROJECT_DIR$/features/support/hooks.rb" />
-        <option value="$PROJECT_DIR$/features/step_definitions/my_steps.rb" />
         <option value="$PROJECT_DIR$/lib/pages/projects_members_page.rb" />
-        <option value="$PROJECT_DIR$/Rakefile.rb" />
         <option value="$PROJECT_DIR$/lib/Gemfile" />
+        <option value="$PROJECT_DIR$/features/support/hooks.rb" />
+        <option value="$PROJECT_DIR$/lib/pages/home_page.rb" />
         <option value="$PROJECT_DIR$/features/support/env.rb" />
+        <option value="$PROJECT_DIR$/tmp/User.txt" />
+        <option value="$PROJECT_DIR$/features/support/models/user.rb" />
+        <option value="$PROJECT_DIR$/lib/pages/lost_password_page.rb" />
+        <option value="$PROJECT_DIR$/lib/pages/base_page.rb" />
+        <option value="$PROJECT_DIR$/lib/pages/login_page.rb" />
+        <option value="$PROJECT_DIR$/features/lost_password.feature" />
+        <option value="$PROJECT_DIR$/features/log_out.feature" />
+        <option value="$PROJECT_DIR$/features/log_in.feature" />
+        <option value="$PROJECT_DIR$/features/edit_type_issue.feature" />
+        <option value="$PROJECT_DIR$/features/edit_role_in_project.feature" />
+        <option value="$PROJECT_DIR$/features/create_project_version.feature" />
+        <option value="$PROJECT_DIR$/features/create_project.feature" />
+        <option value="$PROJECT_DIR$/features/create_issue.feature" />
+        <option value="$PROJECT_DIR$/features/add_user_in_project.feature" />
+        <option value="$PROJECT_DIR$/features/registration.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/my_steps.rb" />
+        <option value="$PROJECT_DIR$/Rakefile.rb" />
+        <option value="$PROJECT_DIR$/features/random_add_issue_with_add_watcher.feature" />
       </list>
     </option>
   </component>
@@ -391,8 +391,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="129" />
-    <option name="y" value="27" />
+    <option name="x" value="283" />
+    <option name="y" value="23" />
     <option name="width" value="1100" />
     <option name="height" value="659" />
   </component>
@@ -412,8 +412,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -441,6 +439,13 @@
             <path>
               <item name="tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -449,10 +454,17 @@
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -464,10 +476,10 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/features/support" />
       <recent name="$PROJECT_DIR$/features" />
-      <recent name="$PROJECT_DIR$/features/support/models" />
       <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/features/support" />
+      <recent name="$PROJECT_DIR$/features/support/models" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -482,7 +494,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber.add_user_in_project.feature">
+  <component name="RunManager" selected="Cucumber.registration.feature">
     <configuration name="add_user_in_project.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="task 7 cucumber" />
@@ -623,41 +635,6 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
     </configuration>
-    <configuration name="edit_type_issue.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="task 7 cucumber" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/edit_type_issue.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-    </configuration>
     <configuration name="random_add_issue_whith_add_watcher.feature" type="CucumberRunConfigurationType" factoryName="Cucumber">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="task 7 cucumber" />
@@ -679,7 +656,42 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/random_add_issue_whith_add_watcher.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/random_add_issue_with_add_watcher.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+    </configuration>
+    <configuration name="registration.feature" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="task 7 cucumber" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/registration.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
@@ -695,19 +707,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Cucumber.random_add_issue_whith_add_watcher.feature" />
-      <item index="1" class="java.lang.String" itemvalue="Cucumber.edit_type_issue.feature" />
-      <item index="2" class="java.lang.String" itemvalue="Cucumber.create_project_version.feature" />
-      <item index="3" class="java.lang.String" itemvalue="Cucumber.create_project.feature" />
-      <item index="4" class="java.lang.String" itemvalue="Cucumber.create_issue.feature" />
-      <item index="5" class="java.lang.String" itemvalue="Cucumber.add_user_in_project.feature" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber.create_project_version.feature" />
+      <item index="2" class="java.lang.String" itemvalue="Cucumber.create_project.feature" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber.create_issue.feature" />
+      <item index="4" class="java.lang.String" itemvalue="Cucumber.add_user_in_project.feature" />
+      <item index="5" class="java.lang.String" itemvalue="Cucumber.registration.feature" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Cucumber.add_user_in_project.feature" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber.create_issue.feature" />
-        <item index="2" class="java.lang.String" itemvalue="Cucumber.create_project.feature" />
-        <item index="3" class="java.lang.String" itemvalue="Cucumber.create_project_version.feature" />
-        <item index="4" class="java.lang.String" itemvalue="Cucumber.edit_type_issue.feature" />
+        <item index="0" class="java.lang.String" itemvalue="Cucumber.registration.feature" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber.add_user_in_project.feature" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber.create_issue.feature" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber.create_project.feature" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber.create_project_version.feature" />
       </list>
     </recent_temporary>
   </component>
@@ -808,44 +820,57 @@
       <workItem from="1521710100380" duration="5455000" />
       <workItem from="1521792636615" duration="4099000" />
       <workItem from="1521797382382" duration="485000" />
-      <workItem from="1521809637432" duration="450000" />
+      <workItem from="1521809637432" duration="683000" />
+      <workItem from="1521903558827" duration="209000" />
+      <workItem from="1522064026172" duration="2073000" />
+      <workItem from="1522139678499" duration="2862000" />
+      <workItem from="1522150450691" duration="2142000" />
+      <workItem from="1522227046943" duration="2551000" />
+      <workItem from="1522230327504" duration="2585000" />
+      <workItem from="1522316720003" duration="2128000" />
+      <workItem from="1522392284058" duration="2403000" />
+      <workItem from="1522399473706" duration="1729000" />
+      <workItem from="1522411348953" duration="710000" />
+      <workItem from="1522651932847" duration="9748000" />
+      <workItem from="1522670110124" duration="1314000" />
+      <workItem from="1522747132477" duration="6915000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="add_user_in_project_feature - 2018.03.23 at 11h 23m 45s.xml">
+    <history-entry file="add_user_in_project_feature - 2018.04.03 at 13h 56m 01s.xml">
       <configuration name="add_user_in_project.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="create_issue_feature - 2018.03.23 at 11h 23m 23s.xml">
+    <history-entry file="create_issue_feature - 2018.04.03 at 13h 43m 58s.xml">
       <configuration name="create_issue.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="create_project_feature - 2018.03.23 at 11h 23m 07s.xml">
-      <configuration name="create_project.feature" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="create_issue_feature - 2018.04.03 at 13h 45m 49s.xml">
+      <configuration name="create_issue.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="create_project_version_feature - 2018.03.23 at 11h 22m 54s.xml">
-      <configuration name="create_project_version.feature" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="create_issue_feature - 2018.04.03 at 13h 46m 05s.xml">
+      <configuration name="create_issue.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="edit_role_in_project_feature - 2018.03.23 at 11h 09m 08s.xml">
-      <configuration name="edit_role_in_project.feature" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="create_issue_feature - 2018.04.03 at 13h 52m 49s.xml">
+      <configuration name="create_issue.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="edit_role_in_project_feature - 2018.03.23 at 11h 09m 38s.xml">
-      <configuration name="edit_role_in_project.feature" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="create_issue_feature - 2018.04.03 at 13h 53m 59s.xml">
+      <configuration name="create_issue.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="edit_role_in_project_feature - 2018.03.23 at 11h 13m 27s.xml">
-      <configuration name="edit_role_in_project.feature" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="create_issue_feature - 2018.04.03 at 13h 54m 28s.xml">
+      <configuration name="create_issue.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="edit_role_in_project_feature - 2018.03.23 at 11h 14m 31s.xml">
-      <configuration name="edit_role_in_project.feature" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="registration_feature - 2018.04.03 at 14h 04m 13s.xml">
+      <configuration name="registration.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="edit_role_in_project_feature - 2018.03.23 at 11h 21m 33s.xml">
-      <configuration name="edit_role_in_project.feature" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="registration_feature - 2018.04.03 at 14h 07m 17s.xml">
+      <configuration name="registration.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
-    <history-entry file="edit_type_issue_feature - 2018.03.23 at 11h 22m 35s.xml">
-      <configuration name="edit_type_issue.feature" configurationId="CucumberRunConfigurationType" />
+    <history-entry file="registration_feature - 2018.04.03 at 14h 09m 29s.xml">
+      <configuration name="registration.feature" configurationId="CucumberRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="383104000" />
+    <option name="totallyTimeSpent" value="420706000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -857,27 +882,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="129" y="27" width="1100" height="659" extended-state="0" />
+    <frame x="283" y="23" width="1100" height="659" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40548205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28544423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32624114" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38120568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280142" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3961039" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38120568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32624114" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3961039" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -920,36 +945,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="51" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/log_in.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Gemfile" />
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/my_steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/rb/testing/patch/bdd/teamcity/cucumber/formatter_03103.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
-          <caret line="130" column="0" lean-forward="false" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/registration.feature" />
     <entry file="file://$PROJECT_DIR$/features/step_definitions/helper_methods.rb" />
     <entry file="file://$PROJECT_DIR$/features/support/helper_metods.rb" />
     <entry file="file://$PROJECT_DIR$/features/support/log_out.feature" />
@@ -970,20 +965,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/no_bug_issue_error.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/models/user.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.0/bin/cucumber">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
@@ -998,80 +979,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pages/my_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pages/lost_password_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pages/home_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/features/support/lib/pages/registration_page.rb" />
-    <entry file="file://$PROJECT_DIR$/features/add_user_in_project.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/registration.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pages/my_account_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pages/base_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/pages/projects_versions_new_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/create_issue.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/create_project.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1079,28 +991,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/lost_password.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/log_out.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/log_in.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1108,44 +998,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/random_add_issue_whith_add_watcher.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/edit_type_issue.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pages/issues_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/create_project_version.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/pages/registration_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1153,7 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1162,7 +1013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1170,23 +1020,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/edit_role_in_project.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/my_steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="70" column="35" lean-forward="false" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1194,15 +1027,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rakefile.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1210,30 +1034,223 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pages/my_account_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/Rakefile.rb" />
+    <entry file="file://$PROJECT_DIR$/features/Rakefile.rb" />
+    <entry file="file://$PROJECT_DIR$/features/Rakefile.rb" />
+    <entry file="file://$PROJECT_DIR$/features/support/hooks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/User.txt" />
+    <entry file="file://$PROJECT_DIR$/lib/pages/home_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pages/registration_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pages/lost_password_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/pages/login_page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/hooks.rb">
+    <entry file="file://$PROJECT_DIR$/lib/pages/issues_page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pages/base_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pages/my_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/support/env.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/no_bug_issue_error.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/edit_type_issue.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/edit_role_in_project.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/create_project_version.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/create_project.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/create_issue.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/add_user_in_project.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/lost_password.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/log_out.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/log_in.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/my_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/user.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="86" column="39" lean-forward="false" selection-start-line="86" selection-start-column="39" selection-end-line="86" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/registration.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/random_add_issue_with_add_watcher.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
