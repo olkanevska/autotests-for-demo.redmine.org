@@ -1,4 +1,3 @@
-require 'json'
 class BasePage
  include PageObject
  link(:login, class: 'login' )
