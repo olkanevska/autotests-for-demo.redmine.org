@@ -3,10 +3,10 @@ Feature: Add user in project
   As a User
   I want to add another user to my project
 
-  @positive
+  @positive,@whit_registration
   Scenario: Positive Add user in project
-    Given I am on Registration page
-    And I submit registration form with valid data
+    Given I am on Login page
+    And I submit valid credentials
     And I create project
     When I add to my project another user
     Then I see expected message

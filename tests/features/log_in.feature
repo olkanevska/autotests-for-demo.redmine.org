@@ -3,11 +3,8 @@ Feature: Login
   As a User
   I want to be able to login
 
-  @positive
+  @positive,@whit_registration
   Scenario: Positive Login
-    Given I am on Registration page
-    And I submit registration form with valid data
-    And I'm log out
-    And I am on Login page
-    When I submit valid credentials
+    Given I am on Login page
+    And I submit valid credentials
     Then I am logged in

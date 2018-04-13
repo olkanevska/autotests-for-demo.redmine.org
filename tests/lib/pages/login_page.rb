@@ -6,10 +6,11 @@ class LoginPage<BasePage
   button(:submit_login_form, name:'login')
   link(:lost_password, css:'#login-form td a')
 
-  def login (user)
+  def login
     self.login_txt_element.when_visible
-    self.login_txt = user.login
-    self.password =  user.password
+    user = JSON.parse(File.read('tmp/user.json'))
+    self.login_txt = self.user_login
+    self.password =  user["password"]
     self.submit_login_form
   end
 end

@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    backports (3.11.1)
+    backports (3.11.2)
     builder (3.2.3)
     childprocess (0.9.0)
       ffi (~> 1.0, >= 1.0.11)
@@ -19,7 +19,7 @@ GEM
       backports (>= 3.8.0)
       cucumber-tag_expressions (~> 1.1.0)
       gherkin (>= 5.0.0)
-    cucumber-expressions (5.0.13)
+    cucumber-expressions (5.0.17)
     cucumber-tag_expressions (1.1.1)
     cucumber-wire (0.0.1)
     data_magic (1.2)
